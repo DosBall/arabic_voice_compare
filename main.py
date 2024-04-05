@@ -164,15 +164,5 @@ if __name__ == "__main__":
     args = parser.parse_args()
     compare1(args.file[0], args.file[1])
 
-#compare1("audios1/lesson1-da.mp3", "audios1/my_da.mp3")
-#compare1("audios1/lesson1-da.mp3", "audios1/my_dzhim.mp3")
-#compare1("Arabic/dad.mp3", "audios1/my_dad.mp3")
-#compare1("Arabic/dad.mp3", "audios1/my_dzhim.mp3")
-
-#dlina_audio("audios1/rec2_60_1.wav", 2.0)
-
-#print(tishina("audios1/rec1_10_2.wav"))
-#print(my_silence_del("audios1/mubarak_do.wav"))
-#print(my_silence_del("audios1/my_do.mp3"))
 
 
