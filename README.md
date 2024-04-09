@@ -1,4 +1,4 @@
-# arabic_voice_compare
+# voice_compare_fpcalc
 Скрипт для сравнения произношения арабской речи
 
 python main.py file1 file2
